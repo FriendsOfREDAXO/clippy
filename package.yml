@@ -1,0 +1,6 @@
+package: clippy
+version: 1.4.19
+author: Karl Klammer
+supportpage: www.redaxo.org/de/forum/
+
+load: late
